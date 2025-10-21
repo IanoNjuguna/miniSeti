@@ -1,0 +1,2 @@
+# miniSeti
+Seti Mini App
